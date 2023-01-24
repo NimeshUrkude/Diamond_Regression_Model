@@ -1,7 +1,7 @@
 # Diamond Regression Model
 
 
-This Repository is of Tensorflow Diamond Value Regression Model of, saved in JSON format.
+This Repository is of Tensorflow Diamond Value Regression Model, saved in JSON format.
 
 Frontend Github : https://github.com/NimeshUrkude/Diamond_Frontend
 
